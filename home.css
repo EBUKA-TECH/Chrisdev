@@ -1,0 +1,26 @@
+nav {
+	background-color: lightgreen;
+	height: 70px;
+	margin: -8px -8px 0px -8px;
+	width: 100px;
+	overflow: hidden;
+}
+ul {
+	list-style-type: none;
+	overflow: hidden;
+	float: right;
+}
+li, a{
+	text-decoration: none;
+	display: inline;
+	
+	padding: 9px 6px;
+}
+h3, p, a, li{
+	color:black;
+}
+p{
+	text-align: justify;
+}
+ 
+ 
